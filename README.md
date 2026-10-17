@@ -3,7 +3,7 @@
 **Discharge Desk** · live  
 Turns phone photos of handwritten case files into each unit's official discharge summary.  
 1,135 cases run, 1,095 summaries delivered, 70+ doctors, five departments, ten units (as of 16 October 2026).  
-40–60 minutes by hand, 10–15 minutes with Discharge Desk, about ₹34 (40 US cents) a case.  
+40–60 minutes by hand, 10–15 minutes with Discharge Desk.  
 [Live app](https://dischargedesk-452479289578.asia-south1.run.app) · [About the project](https://github.com/arnabmedhi/discharge-desk)
 
 **WardOS** · coming next  
